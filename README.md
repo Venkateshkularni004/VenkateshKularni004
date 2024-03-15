@@ -6,18 +6,11 @@
 <img align="right" alt="coding" width="400" src="https://github.com/ArbazNS/ArbazNS/blob/6ca20ef16b71fc70478fd1ad90e28f39901debc6/coder.gif">
 
 - 🔭  My  [Portfolio] https://venkateshkularni004.github.io/venkatesh-kulkarni.github.io/
-- 🔭 I’m currently working on honing my skills as a full stack developer, delving deep into both front-end and back-end technologies to create seamless, user-friendly web applications.
-
-- 🌱 I’m currently learning the latest frameworks and tools in the world of web development, mastering languages like HTML, CSS, JavaScript, and exploring libraries like React.js and Vue.js.
-
-- 💻 My GitHub repository showcases my journey in coding, featuring projects that highlight my proficiency in building responsive and dynamic web applications.
-
-- 🚀 With each commit, I strive to enhance my understanding of software development principles and contribute to open-source projects, fostering collaboration within the developer community.
-
-- 📚 As I continue to learn and grow, I aim to leverage my skills to make meaningful contributions to innovative tech projects and pursue opportunities to excel in the field of full stack development.
-
-  
-
+- Full stack developer skilled in Android, Python, Firebase, React.js, and more.
+- Led Smart Refrigerator project integrating AI/IoT, winning Best Project of the Year.
+- Developed user-friendly Android app for real-time monitoring and control.
+- Proficient in web development, data analysis, and market research.
+- Certified in various tech fields, with volunteer experience in data analytics and community engagement.
 - 📫 How to reach me **LinkedIn: Venkatesh Kulkarni**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/15WfAnfRUU7s_DXjBPxd3sCOadAevai8s/view?usp=sharing
