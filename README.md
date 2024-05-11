@@ -15,7 +15,6 @@
 - 📄 get my All details <a href="https://linktr.ee/venkateshkulkarni"> Get All Details </a>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/venkatesh-kulkarni-vk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Venkatesh-kulkarni" height="30" width="40" /></a>
 </p>
 <br>
 <br>
