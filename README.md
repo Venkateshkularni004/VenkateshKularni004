@@ -26,3 +26,7 @@
 <p> link to my project  live demo</p>
 <p>https://venkateshkularni004.github.io/Netflix-clone-By-venkatesh/<a> Netflix Clone</a></p>
 <p>https://venkateshkularni004.github.io/Apple-website-by-venkatesh/<a>Apple Website</a></p>
+<p>https://venkateshkularni004.github.io/Adobe-clone-By-Venkatesh/<a> Adobe-clone</a></p>
+<p>https://venkateshkularni004.github.io/PurelyVeg/<a> PurlyVeg</a></p>
+<p>https://venkateshkularni004.github.io/venkatesh-kulkarni.github.io/<a> My portfolio Website </a></p>
+<p>https://venkateshkularni004.github.io/loopstudio-website-/<a>loopstudio-website</a></p>
