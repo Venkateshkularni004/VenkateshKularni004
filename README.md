@@ -13,6 +13,8 @@
 - Certified in various tech fields, with volunteer experience in data analytics and community engagement
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/15WfAnfRUU7s_DXjBPxd3sCOadAevai8s/view?usp=sharing">Download my CV</a>
 - 📄 get my All details <a href="https://linktr.ee/venkateshkulkarni"> Get All Details </a>
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="venkatesh-kulkarni-vk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/venkatesh-kulkarni-vk?trk=profile-badge">Venkatesh Kulkarni</a></div>
+              "> Get All Details </a>
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <br>
